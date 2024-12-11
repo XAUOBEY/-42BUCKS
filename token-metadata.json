@@ -1,0 +1,14 @@
+{
+  "name": "42Bucks",
+  "symbol": "$42BUCKS",
+  "description": "A fun and vibrant Solana token for the community.",
+  "image": "https://imgur.com/HB4q9Gi",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://imgur.com/HB4q9Gi",
+        "type": "image/jpg"
+      }
+    ]
+  }
+}
